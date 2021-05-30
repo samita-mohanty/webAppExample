@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Example Maven Webapp</name>
 	
-	<!==demo github webhook==>
+	<!==demo github webhook practice==>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
